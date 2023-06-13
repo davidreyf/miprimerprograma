@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 taxonomia = nx.DiGraph()
 
 # Agregar nodos (categorías o conceptos) a la taxonomía
-taxonomia.add_node("Animalia")
+taxonomia.add_node("Animalio")
 taxonomia.add_node("Chordata")
 taxonomia.add_node("Mammalia")
 taxonomia.add_node("Carnivora")
